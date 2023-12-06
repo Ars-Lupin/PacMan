@@ -1,3 +1,4 @@
+![PacMan](database/banner.png)
 # Título do Projeto: Jogo Pacman baseado em manipulação de arquivos em C
 ## Visão Geral:
 Bem-vindo ao meu primeiro projeto, um jogo de Pacman baseado em manipulação de arquivos em C! Este projeto combina a jogabilidade clássica do Pacman com a manipulação de arquivos no terminal. Os jogadores podem especificar o diretório onde o mapa que eles querem jogar está localizado, criando uma experiência de jogo dinâmica e personalizável.
